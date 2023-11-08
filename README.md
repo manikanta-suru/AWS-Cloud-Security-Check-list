@@ -8,4 +8,4 @@
 
 https://github.com/manikanta-suru/AWS-Cloud-Security-Check-list/
 
-credits : VIEH Group
+credits: VIEH Group
