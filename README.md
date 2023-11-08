@@ -7,3 +7,5 @@
 🤩 You should definitely add it to your bookmarks.🤞🏻🌝
 
 https://github.com/manikanta-suru/AWS-Cloud-Security-Check-list/
+
+credits : VIEH Group
